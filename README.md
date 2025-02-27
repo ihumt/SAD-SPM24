@@ -1,3 +1,27 @@
+# SAD24
+
+Credit Care -> https://github.com/AjnaNushi/CreditCare
+
+ITAM -> https://github.com/kxh03/sad-itam
+
+EMS -> https://github.com/ilten22/SAD
+
+Clinic Management System -> https://github.com/JJoniV/Clinics-Management-System
+
+Real Estate -> https://github.com/RealEstateManagementSystem/Real-Estate
+
+Supermarket "Coop" -> https://github.com/megitamema/Supermarket-Software
+
+Maestral SW -> https://github.com/Kleart10/Maestral-WebApp-SWE
+
+MetroMenza -> https://github.com/mateohysa/metromensa
+
+Health Mate AI -> https://github.com/marildoC/HealthMate-AI
+
+Aritjon Hydraulic IM -> https://github.com/Xhuljano24/Aritjon-Hydraulic-Inventory-Management
+
+AEMS -> https://github.com/Arisa-Ndreu/AEMS--Project
+
 # SAD22 - SPM 24 - ASE 24
 
 Metro Inventory -> https://github.com/kjahaj/Metro-Inventory-Source-Code
