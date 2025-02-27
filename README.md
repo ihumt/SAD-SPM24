@@ -26,7 +26,7 @@ AEMS -> https://github.com/Arisa-Ndreu/AEMS--Project
 
 Metro Inventory -> https://github.com/kjahaj/Metro-Inventory-Source-Code
 
-[BD] School Link "Zani i Shkodres" -> https://github.com/geralddomnori/sweproject
+School Link "Zani i Shkodres" -> https://github.com/geralddomnori/sweproject
 
 Career System -> https://github.com/sulaalket/Career-System-UMT
 
@@ -41,11 +41,14 @@ UMT Inventory System -> https://github.com/Umt-Inventory/MetroInventory
 HR MS -> https://github.com/justEliada/hrManagmentSystem
 
 References of projects from previous years done in my courses...
+
 SAD 2022 -> https://github.com/testep/SMD2022
-SE links 
-https://github.com/testep/SE2022
-https://github.com/testep/SE2021
-https://github.com/testep/SE2020
-https://github.com/testep/SE2019
-https://github.com/testep/SE2018
-https://github.com/testep/SE
+
+----
+<b>SE links</b> 
+- https://github.com/testep/SE2022
+- https://github.com/testep/SE2021
+- https://github.com/testep/SE2020
+- https://github.com/testep/SE2019
+- https://github.com/testep/SE2018
+- https://github.com/testep/SE
