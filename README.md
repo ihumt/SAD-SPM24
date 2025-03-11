@@ -40,12 +40,13 @@ UMT Inventory System -> https://github.com/Umt-Inventory/MetroInventory
 
 HR MS -> https://github.com/justEliada/hrManagmentSystem
 
-References of projects from previous years done in my courses...
+----
+
+<b>References of projects from previous years done in my courses...</b> 
 
 SAD 2022 -> https://github.com/testep/SMD2022
 
-----
-<b>SE links</b> 
+Software Engineering links
 - https://github.com/testep/SE2022
 - https://github.com/testep/SE2021
 - https://github.com/testep/SE2020
