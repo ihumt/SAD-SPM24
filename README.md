@@ -1,3 +1,43 @@
+# ASE25
+
+Law Management System - https://github.com/AdelinaPaskalaj/G.L.A.M
+
+Medical Imaging AI Integration - https://github.com/teabegaj/Medical-Imaging-AI-Integration
+
+Fuel Me - https://github.com/geralddomnori/Uni-project
+
+Real Estate MS - https://github.com/DarliSelita/ASE---PMS-Property_Management_System
+
+UMTInventory - https://github.com/XhHalla/Inventory-Management-System
+
+Smart Tolling System - https://github.com/EndiSh/Toll_System/
+
+# SAD25
+
+PTMS - https://github.com/inviona/Software-Engineering-Analysis-and-Design-Project
+
+Job Agency MS - https://github.com/arba-h/Job-Agency-SM
+
+Tourism MS - https://github.com/Luis-S4/Tourism-MS
+
+Market Romeo MS - https://github.com/XhulioDeda/StoreManagementSystem
+
+School Management Systems - https://github.com/LeandroBakollari/learning-platform
+
+Printing House Management System - https://github.com/Arlindo536/PrintingHouseMS
+
+Winterson HMS - https://github.com/KejsiiiJ/WintersonHMS
+
+Toscana RMS - https://github.com/MegiKana/Toscana-RMS
+
+21Gold Jewelry - https://github.com/DevLogger24/SAD25/tree/main
+
+Skinnovate - https://github.com/BjornaKastrati/Skinnovate
+
+Nestify MS - https://github.com/Xheisiana/Nestify-MS
+
+DOS MS - https://github.com/krisaldamihali/DOS-MS
+
 # SAD24
 
 Credit Care -> https://github.com/AjnaNushi/CreditCare
